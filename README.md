@@ -1,0 +1,1 @@
+I've used the API provided by Studio Ghibli to create this site.
